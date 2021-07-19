@@ -10,15 +10,6 @@ body {
     box-sizing: border-box;
 }
 
-/* CORES
-background: #EBE8EB; 
-cinza claro: #E4E4E4;
-cinza inputs: #818181;
-facebook: #375c98;
-mail: #C54F33;
-twitter: #4dadf2;
-*/
-
 .form-container {
     background: white;
     margin: 150px auto;
